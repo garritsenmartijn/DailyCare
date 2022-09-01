@@ -1,0 +1,10 @@
+{{riqi.DATA}}
+{{beizhu.DATA}}
+天气：{{tianqi.DATA}}
+最低温度：{{low.DATA}}
+最高温度：{{high.DATA}}
+今天是我们恋爱的第 {{lianai.DATA}} 天
+宝宝已经来到这个世界 {{shengri.DATA}} 天
+
+{{caihongpi.DATA}}
+{{jinju.DATA}}
